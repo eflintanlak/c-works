@@ -1,13 +1,18 @@
-# C Programlama Çalışmalarım
-Bu repo, yazılım geliştirme sürecindeki C dili egzersizlerimi ve projelerimi içermektedir.
+# C Programming Studies | C Programlama Çalışmalarım
 
-## Hedeflerim
-* C dilinde veri yapıları ve algoritmalar konusunda uzmanlaşmak.
-* DAAD projeleri kapsamında uluslararası akademik çalışmalara dahil olmak.
+Welcome! This repository contains my C programming exercises, projects, and coursework as a 1st-year Software Development student at Istanbul Aydin University.
 
-## İçerik
-* **Temel Kavramlar:** Döngüler, diziler ve fonksiyonlar.
-* **Projeler:** Yakında eklenecek...
+Hoş geldiniz! Bu depo, İstanbul Aydın Üniversitesi Yazılım Geliştirme 1. sınıf öğrencisi olarak hazırladığım C programlama egzersizlerini, projelerimi ve ders notlarımı içermektedir.
+
+## 📂 Content | İçerik
+- **Basics:** Loops, conditional statements, and variables.
+- **Data Structures:** Arrays, strings, and pointers (Coming soon).
+- **Functions:** Modular programming examples.
+
+## 🛠 Tech Stack | Kullanılan Teknolojiler
+- **Language:** C
+- **Compiler:** GCC / Clang
+- **OS:** macOS Catalina
 
 ---
-*İstanbul Aydın Üniversitesi - Yazılım Geliştirme 1. Sınıf*
+*Developed by Seyhmus | Istanbul Aydin University*
